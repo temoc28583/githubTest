@@ -3,3 +3,4 @@
 "HELLO WORLD"
 NEW CHANGES MADE ON NEWBRANCH
 More changes made on newbranch
+Resolving merge conflict
